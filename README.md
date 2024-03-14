@@ -11,17 +11,32 @@ The Video Processor application is a simple PyQt5-based tool for processing vide
 
 ## Installation
 
-1. Clone the repository:
+# 1. Clone the repository:
 
     ```bash
     git clone https://github.com/suyyash10/Vyorius_test.git
     ```
+# 2. Create a Virtual Environment
+```bash
+pip install virtualenv
+python -m venv venv
+```
 
-2. Install the dependencies:
+# 3. Activate the Virtual Environment (Windows)
+```bash
+venv\Scripts\activate.ps1
+```
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+# Activate the Virtual Environment (macOS and Linux)
+```bash
+source venv/bin/activate
+```
+
+# 4. Install the dependencies:
+
+ ```bash
+ pip install -r requirements.txt
+ ```
 
 ## Usage
 
