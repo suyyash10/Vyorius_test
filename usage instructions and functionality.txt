@@ -1,0 +1,9 @@
+Usage Instructions and Functionality:
+
+1. Open Video File: Click on the "Open Video..." button in the toolbar or select it from the "Tools" menu to open a video file. Supported formats include .mp4, .avi, and .mkv.
+
+2. Save Frame: While the video is playing, click on the "Save Frame..." button in the toolbar or select it from the "Tools" menu to save the current displayed frame as an image file. Supported formats include .png and .jpg.
+
+3. Start/Stop Video: Click on the "Start" button to begin displaying the video frames. Once started, the "Stop" button becomes enabled; click it to stop displaying the video frames.
+
+4. Threshold Slider: Adjust the threshold slider to dynamically change the threshold value applied to the video frames. The processed frames will reflect this change in real-time.
